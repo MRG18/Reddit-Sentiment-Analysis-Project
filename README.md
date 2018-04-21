@@ -3,7 +3,6 @@ Sentiment analysis on corpus of /r/technology titles using word clouds and Bing/
 
 Project:
 
-Data 902 Sentiment Analysis Project
 The goal of this project was to apply various natural language processing techniques to a corpus of documents. 
 These techniques consisted of producing word clouds based on various n-grams, using a lexicon to apply sentiment
 to the documents, and running an emotional analysis on the corpus.
